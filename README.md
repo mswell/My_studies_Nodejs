@@ -1,2 +1,3 @@
-# estudos_NodeJs
-Meus estudos de NodeJS
+# Studies NodeJs
+
+My studies of NodeJs
