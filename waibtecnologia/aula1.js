@@ -5,7 +5,8 @@ var server = http.createServer(function(request, reponse){
     reponse.write("<h1>Hello world!</h1>");
     reponse.write("<br>");
     reponse.write("<br>");
-    reponse.write("<h1>Primeira de nodejs</h1>");
+    reponse.write("<h1>Primeira aula de nodejs</h1>");
+    reponse.write("<br>");
     reponse.end();
 });
 
